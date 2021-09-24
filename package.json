@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-ks",
+  "version": "1.0.0",
+  "description": "A portfolio for golu bhaiya",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Himanshu Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "three": "^0.132.2"
+  }
+}
